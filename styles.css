@@ -1,0 +1,54 @@
+h1{
+    color:background-color: rgba(50,50,153,0.75); 
+    font-family: cursive;
+    
+}
+
+.title {
+    color: rgb(55,75,33);
+    font-family: fantasy
+    
+}
+.size {
+     font-size: 200px;
+    
+    
+}
+
+#large {
+    font-family: inherit;
+    font-display: fallback;
+    font-size: 250px;
+}
+
+h2{
+    width : 25 px;
+    height :50 px;
+    border: 5px dotted red;
+    border-radius: 50px;
+    padding: 150px 50px;
+    margin: 500px;
+
+}
+#basem{
+    border: 55px dotted black;
+    border-radius: 50px;
+
+    
+}
+
+h3{
+    width: 25px;
+    height: 25px;
+    border: 25px solid red;
+    border-radius: 45;
+    padding-left: 50%;
+    margin-left: 50%;
+    
+    
+}
+
+.a12{
+    
+    margin: 50%
+}
